@@ -1,0 +1,10 @@
+$theeme-colors: ("primary": #1ee3e3,
+    "secondary": white,
+);
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/functions";
